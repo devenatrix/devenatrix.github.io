@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Books are being donated by instructors and publishers -->
+
+<book_catalog>
+	<book>
+		<title>Introduction to HTML</title>
+		<author>Joseph Gardner</author>
+		<publisher>Press &#xA9;</publisher>
+		<pages>450</pages>
+	</book>
+
+	<book>
+		<title>Networking Infrastructure</title>
+		<author>Adam Douglas & Janice Dall</author>
+		<publisher>Cenage&#59;&#169;</publisher>
+		<pages>1134</pages>
+	</book>
+
+	<book>
+		<title></title>
+		<author></author>
+		<publisher></publisher>
+		<pages></pages>
+	</book>
+
+	<book>
+		<title></title>
+		<author></author>
+		<publisher></publisher>
+		<pages></pages>
+	</book>
+	<book>
+		<title></title>
+		<author></author>
+		<publisher></publisher>
+		<pages></pages>
+	</book>
+</book_catalog>
