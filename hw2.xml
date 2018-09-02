@@ -18,22 +18,22 @@
 	</book>
 
 	<book>
-		<title></title>
-		<author></author>
-		<publisher></publisher>
-		<pages></pages>
+		<title>Soft Skills in IT</title>
+		<author>Mark Hunter</author>
+		<publisher>Bolding Publisher&#xA9;</publisher>
+		<pages>35</pages>
 	</book>
 
 	<book>
-		<title></title>
-		<author></author>
-		<publisher></publisher>
-		<pages></pages>
+		<title>Network Security</title>
+		<author>Jennifer Starter &#38; Yuri Adantov	</author>
+		<publisher>Wrox&#xA9;</publisher>
+		<pages>2232</pages>
 	</book>
 	<book>
-		<title></title>
-		<author></author>
-		<publisher></publisher>
-		<pages></pages>
+		<title>XML &#38; JSON</title>
+		<author>Stuart Bell</author>
+		<publisher>Cenage&#59;&#169;</publisher>
+		<pages>189</pages>
 	</book>
 </book_catalog>
