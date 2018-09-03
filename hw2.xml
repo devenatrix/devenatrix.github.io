@@ -6,7 +6,7 @@
 	<book>
 		<title>Introduction to HTML</title>
 		<author>Joseph Gardner</author>
-		<publisher>Press &copy;</publisher>
+		<publisher>Press &#xA9;</publisher>
 		<pages>450</pages>
 	</book>
 
