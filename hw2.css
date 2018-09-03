@@ -5,8 +5,8 @@ book_catalog {
 
 book_odd {
 	display: block;
-	margin-top: 20pt;
-	margin-bottom: 20pt;
+	padding-top: 20pt;
+	padding-bottom: 20pt;
 	background-color: lightblue;
 }
 
