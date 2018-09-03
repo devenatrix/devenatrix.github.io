@@ -20,16 +20,20 @@ title {
 	display:  block;
 	color: red;
 	font-weight: bold;
+	padding-left: 15pt;
 }
 
 author {
 	display: block;
+	padding-left: 15pt;
 }
 
 publisher {
 	display: block;
+	padding-left: 15pt;
 }
 
 pages {
 	display:  block;
+	padding-left: 15pt;
 }
