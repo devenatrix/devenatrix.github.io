@@ -3,8 +3,16 @@ book_catalog {
 	width:  100%;
 }
 
-book {
+book_odd {
 	display: block;
+	margin-top: 20pt;
+	margin-bottom: 20pt;
+}
+
+book_even {
+	display: block;
+	margin-top: 20pt;
+	margin-bottom: 20pt;
 }
 
 title {
