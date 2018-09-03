@@ -8,34 +8,34 @@
 		<title>Introduction to HTML</title>
 		<author>Joseph Gardner</author>
 		<publisher>Press &#xA9;</publisher>
-		<pages>450</pages>
+		<length units="pages">450</length>
 	</book_odd>
 
 	<book_even>
 		<title>Networking Infrastructure</title>
 		<author>Adam Douglas &#38; Janice Dall</author>
 		<publisher>Cenage&#59;&#169;</publisher>
-		<pages>1134</pages>
+		<length units="pages">1134</length>
 	</book_even>
 
 	<book_odd>
 		<title>Soft Skills in IT</title>
 		<author>Mark Hunter</author>
 		<publisher>Bolding Publisher&#xA9;</publisher>
-		<pages>35</pages>
+		<length units="pages">35</length>
 	</book_odd>
 
 	<book_even>
 		<title>Network Security</title>
 		<author>Jennifer Starter &#38; Yuri Adantov	</author>
 		<publisher>Wrox&#xA9;</publisher>
-		<pages>2232</pages>
+		<length units="pages">2232</length>
 	</book_even>
 
 	<book_odd>
 		<title>XML &#38; JSON</title>
 		<author>Stuart Bell</author>
 		<publisher>Cenage&#59;&#169;</publisher>
-		<pages>189</pages>
+		<length units="pages">189</length>
 	</book_odd>
 </book_catalog>
